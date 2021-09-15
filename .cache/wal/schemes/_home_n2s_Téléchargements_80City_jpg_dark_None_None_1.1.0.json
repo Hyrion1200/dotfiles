@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/T\u00e9l\u00e9chargements/80City.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100c0e",
+        "foreground": "#cb96db",
+        "cursor": "#cb96db"
+    },
+    "colors": {
+        "color0": "#100c0e",
+        "color1": "#4E2262",
+        "color2": "#264C6D",
+        "color3": "#5A2B96",
+        "color4": "#2C6198",
+        "color5": "#4A44A5",
+        "color6": "#AF7C83",
+        "color7": "#cb96db",
+        "color8": "#8e6999",
+        "color9": "#4E2262",
+        "color10": "#264C6D",
+        "color11": "#5A2B96",
+        "color12": "#2C6198",
+        "color13": "#4A44A5",
+        "color14": "#AF7C83",
+        "color15": "#cb96db"
+    }
+}

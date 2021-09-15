@@ -1,0 +1,24 @@
+wallpaper: "/home/n2s/.config/wpg/wallpapers/Nier_Automata.jpg"
+
+special:
+    background: "#0c120d"
+    foreground: "#fffff7"
+    cursor: "#fffff7"
+
+colors:
+    color0: "#0c120d"
+    color1: "#6d9b24"
+    color2: "#6b8835"
+    color3: "#5a81b0"
+    color4: "#ce9735"
+    color5: "#bd46a4"
+    color6: "#c6e975"
+    color7: "#ddddd0"
+    color8: "#6cc078"
+    color9: "#b2b881"
+    color10: "#8ebd38"
+    color11: "#ccce7a"
+    color12: "#89be81"
+    color13: "#b4d49d"
+    color14: "#e0f4b0"
+    color15: "#fffff7"

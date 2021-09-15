@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/cyberNeon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#00000C",
+        "foreground": "#90e1d2",
+        "cursor": "#90e1d2"
+    },
+    "colors": {
+        "color0": "#00000C",
+        "color1": "#AB345E",
+        "color2": "#F25D6F",
+        "color3": "#3EBF74",
+        "color4": "#F1B76F",
+        "color5": "#205B93",
+        "color6": "#E6668F",
+        "color7": "#90e1d2",
+        "color8": "#649d93",
+        "color9": "#AB345E",
+        "color10": "#F25D6F",
+        "color11": "#3EBF74",
+        "color12": "#F1B76F",
+        "color13": "#205B93",
+        "color14": "#E6668F",
+        "color15": "#90e1d2"
+    }
+}

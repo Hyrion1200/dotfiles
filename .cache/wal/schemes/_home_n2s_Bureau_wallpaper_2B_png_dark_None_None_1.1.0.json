@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/2B.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d0d",
+        "foreground": "#f4e9e3",
+        "cursor": "#f4e9e3"
+    },
+    "colors": {
+        "color0": "#0c0d0d",
+        "color1": "#867466",
+        "color2": "#94867C",
+        "color3": "#AEA29A",
+        "color4": "#CFC4BA",
+        "color5": "#E4C8BA",
+        "color6": "#EFD9CF",
+        "color7": "#f4e9e3",
+        "color8": "#aaa39e",
+        "color9": "#867466",
+        "color10": "#94867C",
+        "color11": "#AEA29A",
+        "color12": "#CFC4BA",
+        "color13": "#E4C8BA",
+        "color14": "#EFD9CF",
+        "color15": "#f4e9e3"
+    }
+}

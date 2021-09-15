@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/Reincarnation.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d050d",
+        "foreground": "#d0c0cd",
+        "cursor": "#d0c0cd"
+    },
+    "colors": {
+        "color0": "#0d050d",
+        "color1": "#884172",
+        "color2": "#7C6284",
+        "color3": "#A4079C",
+        "color4": "#92708B",
+        "color5": "#D107CB",
+        "color6": "#CC29C4",
+        "color7": "#d0c0cd",
+        "color8": "#91868f",
+        "color9": "#884172",
+        "color10": "#7C6284",
+        "color11": "#A4079C",
+        "color12": "#92708B",
+        "color13": "#D107CB",
+        "color14": "#CC29C4",
+        "color15": "#d0c0cd"
+    }
+}

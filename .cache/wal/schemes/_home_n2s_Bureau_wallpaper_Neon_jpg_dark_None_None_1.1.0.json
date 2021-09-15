@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/Neon.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#180a19",
+        "foreground": "#eec4f2",
+        "cursor": "#eec4f2"
+    },
+    "colors": {
+        "color0": "#180a19",
+        "color1": "#9630AB",
+        "color2": "#B63DBF",
+        "color3": "#A452D7",
+        "color4": "#E565EF",
+        "color5": "#44CEBD",
+        "color6": "#A8BFD8",
+        "color7": "#eec4f2",
+        "color8": "#a689a9",
+        "color9": "#9630AB",
+        "color10": "#B63DBF",
+        "color11": "#A452D7",
+        "color12": "#E565EF",
+        "color13": "#44CEBD",
+        "color14": "#A8BFD8",
+        "color15": "#eec4f2"
+    }
+}

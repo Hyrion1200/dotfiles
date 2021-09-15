@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/Automata.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1c1a",
+        "foreground": "#dbd9d0",
+        "cursor": "#dbd9d0"
+    },
+    "colors": {
+        "color0": "#0d1c1a",
+        "color1": "#718657",
+        "color2": "#768575",
+        "color3": "#A5B152",
+        "color4": "#889078",
+        "color5": "#7A8984",
+        "color6": "#9CA193",
+        "color7": "#dbd9d0",
+        "color8": "#999791",
+        "color9": "#718657",
+        "color10": "#768575",
+        "color11": "#A5B152",
+        "color12": "#889078",
+        "color13": "#7A8984",
+        "color14": "#9CA193",
+        "color15": "#dbd9d0"
+    }
+}

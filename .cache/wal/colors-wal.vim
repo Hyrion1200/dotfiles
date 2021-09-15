@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/n2s/.config/wpg/wallpapers/Nier_Automata.jpg"
+let background = "#0c120d"
+let foreground = "#fffff7"
+let cursor     = "#fffff7"
+
+" Colors
+let color0  = "#0c120d"
+let color1  = "#6d9b24"
+let color2  = "#6b8835"
+let color3  = "#5a81b0"
+let color4  = "#ce9735"
+let color5  = "#bd46a4"
+let color6  = "#c6e975"
+let color7  = "#ddddd0"
+let color8  = "#6cc078"
+let color9  = "#b2b881"
+let color10 = "#8ebd38"
+let color11 = "#ccce7a"
+let color12 = "#89be81"
+let color13 = "#b4d49d"
+let color14 = "#e0f4b0"
+let color15 = "#fffff7"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/Bureau/wallpaper/Cyberpunk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060524",
+        "foreground": "#a4c6eb",
+        "cursor": "#a4c6eb"
+    },
+    "colors": {
+        "color0": "#060524",
+        "color1": "#515CBD",
+        "color2": "#6060AF",
+        "color3": "#7068AD",
+        "color4": "#565EC9",
+        "color5": "#876090",
+        "color6": "#B84BB1",
+        "color7": "#a4c6eb",
+        "color8": "#728aa4",
+        "color9": "#515CBD",
+        "color10": "#6060AF",
+        "color11": "#7068AD",
+        "color12": "#565EC9",
+        "color13": "#876090",
+        "color14": "#B84BB1",
+        "color15": "#a4c6eb"
+    }
+}

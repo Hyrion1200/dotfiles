@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/n2s/T\u00e9l\u00e9chargements/3311393.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#e0a09d",
+        "cursor": "#e0a09d"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#663E49",
+        "color2": "#504558",
+        "color3": "#684856",
+        "color4": "#574C60",
+        "color5": "#B6453F",
+        "color6": "#A0484A",
+        "color7": "#e0a09d",
+        "color8": "#9c706d",
+        "color9": "#663E49",
+        "color10": "#504558",
+        "color11": "#684856",
+        "color12": "#574C60",
+        "color13": "#B6453F",
+        "color14": "#A0484A",
+        "color15": "#e0a09d"
+    }
+}
